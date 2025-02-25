@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go_ecs/goecs"
+	"github.com/Swedeachu/go_ecs/goecs"
 )
 
 func main() {

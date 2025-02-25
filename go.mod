@@ -1,3 +1,3 @@
-module go_ecs
+module github.com/Swedeachu/go_ecs
 
 go 1.24
